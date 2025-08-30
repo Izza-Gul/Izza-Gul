@@ -1,4 +1,4 @@
-# 🌸 Hye!  I’m Izza ✨
+#  Hye!  I’m Izza ✨
 ![snake gif](https://github.com/Izza-Gul/Izza-Gul/blob/output/github-snake.svg) <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
