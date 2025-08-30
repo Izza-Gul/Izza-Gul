@@ -1,7 +1,5 @@
-# Hi there, I'm Izza ✨
-
-
-![snake gif](https://github.com/Izza-Gul/Izza-Gul/blob/output/github-snake-dark.svg)
+# Hye, I'm Izza ✨
+![snake gif](https://github.com/Izza-Gul/Izza-Gul/blob/output/github-snake.svg) <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 ### 🛠️ Tools & Technologies
@@ -13,19 +11,22 @@
 ![ETAP](https://img.shields.io/badge/ETAP-004A99?style=for-the-badge&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF5C00?style=for-the-badge&logo=Mathworks&logoColor=white)
+![Cadence](https://img.shields.io/badge/Cadence-FFB6C1?style=for-the-badge&logo=cadence&logoColor=white)
 
 ---
 
 
 ---
-
+<div align="center">
 ### 📊 GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=izza-gul&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izza-gul&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=izza-gul&theme=radical&border_radius=10)
 
+</div>
 ---
 
 <!--
