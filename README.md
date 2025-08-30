@@ -1,6 +1,6 @@
 # Hi there, I'm Izza ✨
 
-![Snake animation](https://github.com/YOUR_USERNAME_HERE/YOUR_USERNAME_HERE/blob/output/snake.svg)
+![snake gif](https://github.com/Izza-Gul/Izza-Gul/blob/output/github-snake-dark.svg
 
 
 
