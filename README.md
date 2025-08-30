@@ -12,6 +12,11 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-FF5C00?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Cadence](https://img.shields.io/badge/Cadence-FFB6C1?style=for-the-badge&logo=cadence&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ---
 
