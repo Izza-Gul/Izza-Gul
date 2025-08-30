@@ -1,8 +1,7 @@
 # Hi there, I'm Izza ✨
 
-![snake gif](https://github.com/Izza-Gul/Izza-Gul/blob/output/github-snake-dark.svg
 
-
+![snake gif](https://github.com/Izza-Gul/Izza-Gul/blob/output/github-snake-dark.svg)
 
 
 ### 🛠️ Tools & Technologies
